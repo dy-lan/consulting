@@ -1,3 +1,6 @@
+AllCops:
+  NewCops: enable
+
 Layout/LineLength:
   AutoCorrect: true
   Max: 100

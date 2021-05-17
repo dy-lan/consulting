@@ -1,0 +1,1 @@
+A client needed a solution that returned the total number of Jenkins jobs in their private instance and the number of active jobs. Active jobs were deemed active if they had been ran since an arbitrary date (listed in the script as `ACTIVE_SINCE_DATE`).
